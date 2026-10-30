@@ -1,0 +1,5 @@
+﻿  functions.cpp
+main.obj : error LNK2005: "double __cdecl DOD_FNN::random_double(void)" (?random_double@DOD_FNN@@YANXZ) already defined in FNN.obj
+main.obj : error LNK2005: "double __cdecl DOD_FNN::sigmoid(double)" (?sigmoid@DOD_FNN@@YANN@Z) already defined in FNN.obj
+main.obj : error LNK2005: "double __cdecl DOD_FNN::sigmoid_derivative(double)" (?sigmoid_derivative@DOD_FNN@@YANN@Z) already defined in FNN.obj
+C:\Programming\Projects\NN\x64\Debug\NN.exe : fatal error LNK1169: one or more multiply defined symbols found
