@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\FNN.obj",
+            "outputs": [
+                "x64\\Debug\\FNN.h_F9A9079E75CE4019.ifc.dt.module.json",
+                "x64\\Debug\\FNN.h_F9A9079E75CE4019.ifc.dt.d.json",
+                "x64\\Debug\\FNN.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Programming\\Projects\\NN\\NN\\FNN.h",
+                    "source-path": "c:\\programming\\projects\\nn\\nn\\fnn.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

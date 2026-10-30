@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\.obj",
+            "outputs": [
+                "x64\\Debug\\.h_11561546D1AA227D.ifc.dt.module.json",
+                "x64\\Debug\\.h_11561546D1AA227D.ifc.dt.d.json",
+                "x64\\Debug\\.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Programming\\Projects\\NN\\NN\\.h",
+                    "source-path": "c:\\programming\\projects\\nn\\nn\\.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

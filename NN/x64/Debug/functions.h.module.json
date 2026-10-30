@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\functions.h.obj",
+            "outputs": [
+                "C:\\Programming\\Projects\\NN\\NN\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Programming\\Projects\\NN\\NN\\x64\\Debug\\functions.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "functions.h",
+                    "source-path": "c:\\programming\\projects\\nn\\nn\\functions.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

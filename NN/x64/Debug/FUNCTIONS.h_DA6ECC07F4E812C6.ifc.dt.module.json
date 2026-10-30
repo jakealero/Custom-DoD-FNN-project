@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\FUNCTIONS.obj",
+            "outputs": [
+                "x64\\Debug\\FUNCTIONS.h_DA6ECC07F4E812C6.ifc.dt.module.json",
+                "x64\\Debug\\FUNCTIONS.h_DA6ECC07F4E812C6.ifc.dt.d.json",
+                "x64\\Debug\\FUNCTIONS.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Programming\\Projects\\NN\\NN\\FUNCTIONS.h",
+                    "source-path": "c:\\programming\\projects\\nn\\nn\\functions.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
