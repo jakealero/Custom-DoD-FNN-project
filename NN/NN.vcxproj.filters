@@ -24,10 +24,37 @@
     <ClCompile Include="FNN.h">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="FNN.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fnn_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lstm_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LSTM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FNN_IO.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="io_common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LSTM_io.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LSTM.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="xor.dfnn" />
   </ItemGroup>
 </Project>

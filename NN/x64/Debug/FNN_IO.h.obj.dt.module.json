@@ -3,10 +3,10 @@
     "revision": 0,
     "rules": [
         {
-            "primary-output": "x64\\Debug\\FNN_IO.obj",
+            "primary-output": "x64\\Debug\\FNN_io.obj",
             "outputs": [
-                "x64\\Debug\\FNN_IO.h.obj.dt.module.json",
-                "x64\\Debug\\FNN_IO.h.obj.dt.d.json"
+                "x64\\Debug\\FNN_io.h.obj.dt.module.json",
+                "x64\\Debug\\FNN_io.h.obj.dt.d.json"
             ],
             "requires": []
         }

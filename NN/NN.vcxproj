@@ -139,12 +139,25 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FNN.cpp" />
     <ClCompile Include="FNN.h" />
+    <ClCompile Include="fnn_test.cpp" />
     <ClCompile Include="functions.h" />
+    <ClCompile Include="LSTM.cpp" />
+    <ClCompile Include="lstm_demo.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FNN_IO.h" />
+    <ClInclude Include="io_common.h" />
+    <ClInclude Include="LSTM.h" />
+    <ClInclude Include="LSTM_io.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="xor.dfnn" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,5 +1,7 @@
 ﻿  Scanning sources for module dependencies...
+  fnn_test.cpp
   main.cpp
+  Generating Code...
   NN.vcxproj -> C:\Programming\Projects\NN\x64\Debug\NN.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
